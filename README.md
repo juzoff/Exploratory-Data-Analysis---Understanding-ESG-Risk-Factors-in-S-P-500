@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis---Understanding-ESG-Risk-Factors-in-S&P-500
-This project analyzes ESG risk ratings for S&P 500 companies, addressing missing values, performing ANOVA for ESG score relationships, and using Chi-Square tests for correlations with categorical variables. Results are formatted and exported for Power BI dashboard development.
+This project conducts a comprehensive analysis of Environmental, Social, and Governance (ESG) risk ratings for companies within the S&P 500. It involves importing a dataset containing ESG scores, examining the data structure, and addressing missing values through mean imputation. The project then proceeds with statistical analysis, including ANOVA to investigate the relationship between ESG risk levels and various ESG scores, as well as Chi-Square tests to explore correlations between ESG risk levels and other categorical variables such as controversy levels, sectors, and industries. The results are formatted into a single dataframe for easier interpretation and are ultimately exported to a CSV file for dashboard development via Power BI.
 
 ## Components: 
 
