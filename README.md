@@ -16,11 +16,15 @@ This project conducts a comprehensive analysis of Environmental, Social, and Gov
 4. ANOVA Analysis:
 - The project performs ANOVA (Analysis of Variance) to analyze the impact of the categorical variable (ESG Risk Level) on several numeric variables (different ESG risk scores) and calculates the p-values and effect sizes (eta-squared) from these analyses
 
+![1](https://github.com/user-attachments/assets/48f3f239-29da-473d-a950-d71f7a17f3c1)
+
 5. Chi-Square Tests:
 - The project conducts Chi-Square tests to explore the relationships between the categorical variable (ESG Risk Level) and other categorical variables (e.g., Controversy Level, Sector, Industry), calculating statistics like Cramér's V for effect size
 
 6. Mean Differences Calculation and Contingency Table Analysis:
 - This analysis calculates mean differences in ESG scores across various risk levels and employs a categorical contingency table to examine relationships between ESG risk categories and other categorical variables, enabling deeper insights into patterns and trends within the data
+
+![2](https://github.com/user-attachments/assets/448e6644-4f81-4d38-b6dc-462a9ec77ec0)
 
  7. Data Preparation for Export:
 - The results from both the ANOVA and Chi-Square tests are formatted and combined into a single dataframe for easier analysis
