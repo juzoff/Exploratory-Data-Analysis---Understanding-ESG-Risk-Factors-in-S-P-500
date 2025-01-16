@@ -28,7 +28,7 @@ This project conducts a comprehensive analysis of Environmental, Social, and Gov
 
 ![2](https://github.com/user-attachments/assets/448e6644-4f81-4d38-b6dc-462a9ec77ec0)
 
-![4](https://github.com/user-attachments/assets/4fab9dbe-8908-4701-8f5e-fd18ce936d7a)
+![4](https://github.com/user-attachments/assets/059a98e8-2a29-45a1-92e8-2a4c9931380c)
 
  7. Data Preparation for Export:
 - The results from both the ANOVA and Chi-Square tests are formatted and combined into a single dataframe for easier analysis
