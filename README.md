@@ -37,4 +37,6 @@ This project conducts a comprehensive analysis of Environmental, Social, and Gov
 - Finally, the combined dataframe is exported to a CSV file for PowerBI dashboard development
 
 9. PowerBI Dashboard Development :
-- F
+
+![Dashboard](https://github.com/user-attachments/assets/24794a65-2d43-4808-b789-a6b75022ed2e)
+
