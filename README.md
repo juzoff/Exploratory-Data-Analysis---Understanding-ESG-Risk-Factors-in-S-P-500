@@ -37,6 +37,9 @@ This project conducts a comprehensive analysis of Environmental, Social, and Gov
 - Finally, the combined dataframe is exported to a CSV file for PowerBI dashboard development
 
 9. PowerBI Dashboard Development :
+- ESG Risk Level Breakdown: The dashboard provides a comprehensive analysis of sectors, industries, and risk scores, showcasing the top 70 sectors and industries by count across all ESG risk levels, along with average Cramer's V and Eta-squared values for categorical and numerical attributes.
+- ESG Risk Distribution: It includes a visual representation of ESG risk percentiles and the distribution of risk levels, highlighting how different companies perform across various ESG dimensions.
+- Interative Insights: Users can filter data by ESG risk level using a slicer and view aggregated metrics such as the sum of counts and averages for ESG risk levels, helping to identify key trends and patterns.
 
 ![Dashboard](https://github.com/user-attachments/assets/24794a65-2d43-4808-b789-a6b75022ed2e)
 
